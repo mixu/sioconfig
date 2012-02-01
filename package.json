@@ -1,0 +1,10 @@
+{
+  "name": "sioconfig",
+  "description": "Socket.io configs and a test tool",
+  "version": "0.0.1",
+  "main": "server.js",
+  "dependencies": {
+    "ws": "0.4.x"
+  },
+  "private": "true"
+}
